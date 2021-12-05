@@ -19,4 +19,4 @@ Version 0.1.0, intial functionality
 
 
 Pull Requests
-[Pull Request One](https://github.com/Tareq-Zeyad/django-snacks/pull/11)
+[Pull Request One](https://github.com/Tareq-Zeyad/django-snacks/pull/1)
